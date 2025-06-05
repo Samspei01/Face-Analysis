@@ -1,0 +1,27 @@
+Metric,Value
+model_type,OpenCV Face Detector
+detection_rate,1.0
+false_positive_rate,0.0
+true_accuracy,1.0
+precision,1.0
+avg_time,0.009042071676254272
+faces_per_second,110.59412442240841
+total_images,10000
+images_with_faces,10000
+images_with_no_faces,0
+one_face_images,10000
+multi_face_images,0
+zero_face_images,0
+total_faces,10000
+expected_faces,10000
+extra_faces,0
+p50_time,0.008648872375488281
+p90_time,0.010525226593017578
+p95_time,0.011105060577392578
+p99_time,0.012865781784057617
+avg_confidence,0.9994982361078263
+min_confidence,0.7948179244995117
+max_confidence,0.9999985694885254
+avg_ratio,0.7297323991621456
+total_processing_time,97.90390944480896
+model_name,OpenCV Face Detector

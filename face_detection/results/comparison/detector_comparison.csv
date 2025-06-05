@@ -1,0 +1,6 @@
+,True Accuracy (%),Precision (%),False Positive Rate,Avg Detection Time (s),Speed (faces/sec),Detection Rate (%),Total Images,Images with Faces,Images without Faces,Images with 1 Face,Images with >1 Face,Images with 0 Faces,Total Faces Detected,Avg Faces/Image
+Haar Cascade,99.4,99.4,-0.006,0.012570524215698242,79.55117724932954,99.4,1000.0,994.0,6.0,994.0,0.0,6.0,994.0,0.994
+MMOD,100.0,100.0,0.0,0.5217251679897308,1.9167179606326432,100.0,1000.0,1000.0,0.0,1000.0,0.0,0.0,1000.0,1.0
+YOLOv5-Face,100.0,100.0,0.0,0.026240818977355956,38.108566690046224,100.0,1000.0,1000.0,0.0,1000.0,0.0,0.0,1000.0,1.0
+SSD Face,100.0,100.0,0.0,,116.26634239375379,100.0,1000.0,1000.0,0.0,1000.0,0.0,0.0,,
+MobileNet SSD,100.0,100.0,0.0,,116.46667819956787,100.0,1000.0,1000.0,0.0,1000.0,0.0,0.0,,

@@ -1,0 +1,26 @@
+Metric,Value
+model_type,SSD Face Detector
+detection_rate,1.0
+false_positive_rate,0.0
+true_accuracy,1.0
+precision,1.0
+avg_time,0.008917224407196046
+faces_per_second,112.14251815766993
+total_images,1000
+images_with_faces,1000
+images_with_no_faces,0
+one_face_images,1000
+multi_face_images,0
+zero_face_images,0
+total_faces,1000
+expected_faces,1000
+extra_faces,0
+p50_time,0.008496284484863281
+p90_time,0.010315895080566406
+p95_time,0.01102304458618164
+p99_time,0.013211965560913086
+avg_confidence,0.9993424997329712
+min_confidence,0.7948179244995117
+max_confidence,0.9999964237213135
+avg_ratio,0.7294089597256799
+total_processing_time,9.661477327346802

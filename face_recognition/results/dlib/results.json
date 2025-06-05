@@ -1,0 +1,16 @@
+{
+    "model": "Dlib ResNet",
+    "total_pairs": 500,
+    "successful_pairs": 500,
+    "failed_pairs": 0,
+    "success_rate": 1.0,
+    "accuracy": 0.986,
+    "threshold": 0.9,
+    "roc_auc": 0.9939516129032259,
+    "timing": {
+        "avg_processing_time": 0.11990184211730957,
+        "min_processing_time": 0.09215188026428223,
+        "max_processing_time": 0.3642256259918213,
+        "total_processing_time": 59.950921058654785
+    }
+}

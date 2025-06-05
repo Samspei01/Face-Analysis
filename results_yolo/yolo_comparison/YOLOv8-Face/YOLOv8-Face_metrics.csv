@@ -1,0 +1,19 @@
+model_name,YOLOv8-Face
+total_images,10
+images_with_faces,8
+images_with_no_faces,2
+face_detection_rate,0.8
+true_accuracy,0.5
+false_positive_rate,0.3
+total_faces_detected,11
+avg_faces_per_image,1.1
+one_face_images,5
+multi_face_images,3
+zero_face_images,2
+avg_detection_time,0.057177186012268066
+median_detection_time,0.02505946159362793
+p90_detection_time,0.06425015926361072
+p95_detection_time,0.21415206193923914
+p99_detection_time,0.33407358407974247
+images_per_second,17.489493095820382
+detection_times,[0.36405396461486816, 0.025931596755981445, 0.026895761489868164, 0.030118942260742188, 0.015660524368286133, 0.01672673225402832, 0.03093862533569336, 0.024187326431274414, 0.016738414764404297, 0.02051997184753418]

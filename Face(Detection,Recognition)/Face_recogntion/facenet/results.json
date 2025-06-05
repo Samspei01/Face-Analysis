@@ -1,0 +1,15 @@
+{
+    "model": "FaceNet",
+    "accuracy": 0.538,
+    "threshold": 0.06,
+    "roc_auc": 0.5403225806451613,
+    "failed_pairs": 0,
+    "total_pairs": 500,
+    "success_rate": 1.0,
+    "timing": {
+        "avg_processing_time": 1.3362431106567383,
+        "min_processing_time": 1.1724467277526855,
+        "max_processing_time": 1.5140328407287598,
+        "total_processing_time": 668.1215553283691
+    }
+}

@@ -1,0 +1,5 @@
+Metric,YOLOv5,YOLOv8
+Detection Rate,65.00%,95.00%
+Avg Detections/Image,0.70,1.15
+Avg Time (ms),30.15,27.21
+Speed (img/sec),33.16,36.75

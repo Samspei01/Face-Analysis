@@ -1,0 +1,8 @@
+LFW Directory: ./lfw-deepfunneled/lfw-deepfunneled
+Pairs File: pairs_balanced.csv
+Model Path: ./recognize_models/dlib_face_recognition_resnet_model_v1.dat
+Predictor Path: ./recognize_models/shape_predictor_68_face_landmarks.dat
+Sample Size: 500
+Output Directory: ./results/dlib
+Face Size: 150
+Debug Mode: False

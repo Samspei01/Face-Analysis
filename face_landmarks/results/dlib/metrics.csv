@@ -1,0 +1,17 @@
+avg_detection_time,0.009461747646331788
+faces_per_second,105.68872024268039
+p50_detection_time,0.009135246276855469
+p90_detection_time,0.010199689865112304
+p95_detection_time,0.011077594757080077
+p99_detection_time,0.01632728576660156
+total_images,1000
+images_with_faces,994
+images_with_no_faces,6
+total_faces_detected,1045
+expected_faces,1000
+detection_rate,0.994
+true_accuracy,0.994
+precision,1.0
+false_positive_rate,0
+avg_faces_per_image,1.045
+avg_size,103.62727272727273

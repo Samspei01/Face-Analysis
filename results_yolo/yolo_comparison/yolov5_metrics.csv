@@ -1,0 +1,12 @@
+model_name,YOLOv5
+total_images,20
+images_with_detections,13
+detection_rate,0.65
+total_detections,14
+avg_detections_per_image,0.7
+avg_detection_time,0.030154860019683837
+median_detection_time,0.012260079383850098
+p90_detection_time,0.02375826835632324
+p95_detection_time,0.03948521614074729
+p99_detection_time,0.27620606422424276
+images_per_second,33.16215029176861

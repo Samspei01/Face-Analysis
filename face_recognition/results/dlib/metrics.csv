@@ -1,0 +1,11 @@
+Metric,Value
+model_name,Dlib Face Recognition
+pairs_evaluated,600
+successful_pairs,590
+success_rate,0.9833333333333333
+verification_accuracy,1.0
+best_threshold,0.5
+roc_auc,0
+average_processing_time,0.1929810078938802
+median_processing_time,0.18309330940246582
+std_processing_time,0.041048783416841164
