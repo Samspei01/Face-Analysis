@@ -38,7 +38,7 @@ The research involves rigorous testing and comparison of **11 state-of-the-art m
 │   ├── Face_landmarks/             # Facial landmarks analysis results
 │   ├── Face_recogntion/            # Face recognition analysis results
 │   └── Report.md                   # Comprehensive research report
-├���─ face_detection/                 # Face detection models evaluation
+├─ face_detection/                 # Face detection models evaluation
 ├── face_landmarks/                 # Facial landmarks models evaluation
 ├── face_recognition/               # Face recognition models evaluation
 └── results_yolo/                   # YOLO face detection models comparison
