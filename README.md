@@ -155,8 +155,8 @@ A special focus was placed on comparing YOLOv5-Face and YOLOv8-Face for face det
 **FaceNet:**
 ![FaceNet Recognition Example](./assets/facenet_recognition_example.png)
 
-**MobileFaceNet**
-![MobileFaceNet Recognition Example](./assets/facenet_recognition_example.png)
+**MobileFaceNet:**
+![MobileFaceNet Recognition Example](./Face(Detection,Recognition)/Face_recogntion/mobilefacenet/example_pair_5.png)
 
 ## 5. Integrated Face Analysis Pipeline
 
