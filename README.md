@@ -63,7 +63,7 @@ The research involves rigorous testing and comparison of **11 state-of-the-art m
 |-------|--------------|---------------|-------------------|--------------------|
 | Haar Cascade | 99.4 | 99.4 | 79.55 | 12.6 |
 | MMOD | 100.0 | 100.0 | 1.92 | 521.7 |
-| YOLOv5-Face | 100.0 | 100.0 | 38.11 | 26.2 |
+| YOLOv5-Face | 65.0 | 100.0 | 38.11 | 26.2 |
 | SSD Face | 100.0 | 100.0 | 116.27 | 8.6 |
 | MobileNet SSD | 100.0 | 100.0 | 116.47 | 8.6 |
 | YOLOv8-Face | 95.0 | 95.0 | 36.75 | 27.2 |
@@ -84,8 +84,8 @@ A special focus was placed on comparing YOLOv5-Face and YOLOv8-Face for face det
 
 | Model | Detection Rate (%) | Avg Detection Time (ms) | Images/sec |
 |-------|---------------------|------------------------|-----------|
-| YOLOv5-Face | 100.0 | 26.2 | 38.11 |
-| YOLOv8-Face | 95.0 | 27.2 | 36.75 |
+| YOLOv5-Face | 65.0 | 0.70 | 33.16 |
+| YOLOv8-Face | 95.0 | 1.15 | 36.75 |
 
 ### YOLOv5-Face vs YOLOv8-Face:
 
