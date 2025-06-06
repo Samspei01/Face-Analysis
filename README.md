@@ -145,7 +145,7 @@ A special focus was placed on comparing YOLOv5-Face and YOLOv8-Face for face det
 | FaceNet | 53.8% | 0.54 | 1,336 ms | 100% |
 | MobileFaceNet | 57.2% | 0.565 | 794 ms | 100% |
 
-![Recognition Models Comparison](./assets/recognition_comparison.png)
+![Recognition Models Comparison](./assets/face_recognition_comprehensive_comparison.png)
 
 ### Recognition Examples:
 
